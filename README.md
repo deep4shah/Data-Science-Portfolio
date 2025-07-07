@@ -18,7 +18,7 @@ This section highlights my data analytics projects, each briefly describing the 
 ### Python
 ###  House Price Prediction
 
-- **[House Price Prediction](./project-folder)**  
+- **[House Price Prediction](./House_Price_Prediction.ipynb)**  
   This project focuses on predicting house prices using supervised machine learning techniques. The workflow includes data cleaning, exploratory data analysis (EDA), and applying multiple regression models to evaluate performance and accuracy.
 
   **Models Used:**
