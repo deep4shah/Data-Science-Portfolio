@@ -56,3 +56,23 @@ This project involves analyzing Olympic Games data using structured SQL queries.
 - Grouping and sorting for insightful breakdowns
 
 > This analysis demonstrates the use of SQL for deriving insights from a sports dataset, useful for exploring historical trends, nation-wise performance, and medal distributions.
+
+***
+### Bike Store Sales Analysis – SQL Project
+
+- **[Bike Store SQL Analysis](./Bike_Stores_Analysis.sql)**  
+
+This project involves performing a detailed sales analysis for a bike store using structured SQL queries. It explores various business-critical metrics such as product performance, customer trends, sales distribution across stores and cities, and staff efficiency.
+
+
+#### SQL Techniques Used
+
+- Data aggregation with `SUM()`, `COUNT()`, `ROUND()`, and `CAST()`
+- Ranking and window functions (`RANK() OVER`)
+- Date/time extraction using `strftime()` for year-wise trends
+- Conditional logic with `CASE WHEN`
+- Joins across multiple related tables (customers, products, orders, stores, etc.)
+- Subqueries and nested aggregations
+
+> This analysis highlights how SQL can be effectively used to evaluate retail sales performance, understand customer behavior, monitor inventory flow, and identify high-performing regions, products, and staff.
+
