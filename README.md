@@ -76,3 +76,32 @@ This project involves performing a detailed sales analysis for a bike store usin
 
 > This analysis highlights how SQL can be effectively used to evaluate retail sales performance, understand customer behavior, monitor inventory flow, and identify high-performing regions, products, and staff.
 
+
+---
+### Power BI
+
+### Bike Store Analysis
+
+This Power BI dashboard analyze the performance of a fictional bike store business across multiple dimensions including revenue, quantity sold, product categories, brands, stores, and states.
+
+![Bike Store Dashboard](./Bike_Store_Dashboard.png) 
+
+## Dashboard Highlights
+
+### 🔹 Revenue Analysis
+- **Total Revenue**: $7.69M
+- Year-wise revenue trends from **2016 to 2018**
+- Revenue by **category**, **brand**, and **store**
+
+### 🔹 Sales Breakdown
+- Quantity of bikes sold by **product category**
+- State-wise sales comparison across **TX, NY, and CA**
+- High-performing brands like **Trek**, **Electra**, and **Surly**
+
+### 🔹 Product Insights
+- Count of products by brand
+- Top-selling categories include:
+  - Mountain Bikes
+  - Road Bikes
+  - Cruisers Bicycles
+
