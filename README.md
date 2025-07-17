@@ -88,20 +88,9 @@ This Power BI dashboard analyze the performance of a fictional bike store busine
 
 ## Dashboard Highlights
 
-### 🔹 Revenue Analysis
-- **Total Revenue**: $7.69M
-- Year-wise revenue trends from **2016 to 2018**
-- Revenue by **category**, **brand**, and **store**
-
-### 🔹 Sales Breakdown
-- Quantity of bikes sold by **product category**
-- State-wise sales comparison across **TX, NY, and CA**
-- High-performing brands like **Trek**, **Electra**, and **Surly**
-
-### 🔹 Product Insights
-- Count of products by brand
-- Top-selling categories include:
-  - Mountain Bikes
-  - Road Bikes
-  - Cruisers Bicycles
-
+- Total Revenue (2016–2018)
+- Revenue by category, brand, and store
+- Quantity sold by product category and state
+- Top brands: Trek, Electra, Surly
+- Product count by brand
+- Brand-wise filtering via slicer for detailed insights
