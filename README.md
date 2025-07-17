@@ -1,6 +1,6 @@
 # Data Science & Data Analysis Portfolio
 
-## 👋 About
+##  About
 
 Hi, I'm Deep Shah. I have an academic background in Automobile Engineering and completed my MBA in General Management. I began my career in sales, which gave me a strong understanding of business operations. Over time, I transitioned into a data analyst role, where I have been working for the past year, applying analytical techniques to support business decisions.
 
@@ -94,3 +94,5 @@ This Power BI dashboard analyze the performance of a fictional bike store busine
 - Top brands: Trek, Electra, Surly
 - Product count by brand
 - Brand-wise filtering via slicer for detailed insights
+
+[Download the interactive Power BI report (.pbix)](./Bike_Store_Analysis.pbix) for detailed exploration.
