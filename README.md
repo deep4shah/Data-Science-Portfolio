@@ -95,4 +95,4 @@ This Power BI dashboard analyze the performance of a fictional bike store busine
 - Product count by brand
 - Brand-wise filtering via slicer for detailed insights
 
-[Download the interactive Power BI report (.pbix)](./Bike_Store_Analysis.pbix) for detailed exploration.
+[Download the interactive Power BI report (.pbix)](Bike%20Store%20Analysis/Bike_Store_Analysis.pbix) for detailed exploration.
