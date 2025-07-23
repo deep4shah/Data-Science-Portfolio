@@ -43,7 +43,7 @@ This section highlights my data analytics projects, each briefly describing the 
 ### SQL
 
  ###  Olympic Games Analysis – SQL Project
-- **[Olympics Data Exploration](./Olympic_Analysis.sql)**  
+- **[Olympics Data Exploration](Olympic%20Games%20Analysis/Olympic_Analysis.sql)**  
 
 This project involves analyzing Olympic Games data using structured SQL queries. The analysis covers various dimensions of the Olympics dataset such as participation, medal tallies, athlete performance, and country-wise success.
 
@@ -60,7 +60,7 @@ This project involves analyzing Olympic Games data using structured SQL queries.
 ***
 ### Bike Store Sales Analysis – SQL Project
 
-- **[Bike Store SQL Analysis](./Bike_Stores_Analysis.sql)**  
+- **[Bike Store SQL Analysis](Bike%20Store%20Analysis/Bike_Stores_Analysis.sql)**  
 
 This project involves performing a detailed sales analysis for a bike store using structured SQL queries. It explores various business-critical metrics such as product performance, customer trends, sales distribution across stores and cities, and staff efficiency.
 
@@ -84,7 +84,7 @@ This project involves performing a detailed sales analysis for a bike store usin
 
 This Power BI dashboard analyze the performance of a fictional bike store business across multiple dimensions including revenue, quantity sold, product categories, brands, stores, and states.
 
-![Bike Store Dashboard](./Bike_Store_Dashboard.png) 
+![Bike Store Dashboard](Bike%20Store%20Analysis/Bike_Store_Dashboard.png) 
 
 ## Dashboard Highlights
 
