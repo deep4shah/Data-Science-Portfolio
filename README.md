@@ -4,7 +4,7 @@
 
 Hi, I'm Deep Shah. I have an academic background in Automobile Engineering and completed my MBA in General Management. I began my career in sales, which gave me a strong understanding of business operations. Over time, I transitioned into a data analyst role, where I have been working for the past year, applying analytical techniques to support business decisions.
 
-I have a solid foundation in machine Learning, Deep Learning, Statistical analysis and data visualization. I am skilled in Python, SQL, Tableau, Power BI, and Excel, with experience in cleaning, analyzing, and interpreting complex datasets to uncover meaningful insights. I have also completed a certification in Artificial Intelligence and Machine Learning to strengthen my technical foundation.
+I have a solid foundation in Machine learning, Deep learning, Statistical analysis and Data visualization. I am skilled in Python, SQL, Tableau, Power BI, and Excel, with experience in cleaning, analyzing, and interpreting complex datasets to uncover meaningful insights. I have also completed a certification in Artificial Intelligence and Machine Learning to strengthen my technical foundation.
 
 I’m passionate about using data science to solve real-world problems and optimize operational efficiency. I’m currently looking to grow further in the field of data analysis or data science, continuously learning and applying my skills to create business impact.
 
