@@ -39,7 +39,7 @@ This section highlights my data analytics projects, each briefly describing the 
 
 ### Walmart Sales Forecasting
 
-- **[Walmart Sales Forecasting](Walamrt%20Sales%20Forecast/Walmart_Sales_Forecast.ipynb)**  
+- **[Walmart Sales Forecasting](Walmart%20Sales%20Forecast/Walmart_Sales_Forecast.ipynb)**  
  This project aims to forecast Walmart's weekly sales using a structured machine learning pipeline. It covers data preprocessing, feature engineering, exploratory data analysis (EDA), and model training and   evaluation using both classical and advanced regression algorithms.
 
   **Models Used:**
