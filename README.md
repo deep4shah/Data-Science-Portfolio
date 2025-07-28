@@ -37,6 +37,45 @@ This section highlights my data analytics projects, each briefly describing the 
   **Tools & Libraries:**  
   Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
 
+### Walmart Sales Forecasting
+
+- **[Walmart Sales Forecasting](Walamrt%20Sales%20Forecast/Walmart_Sales_Forecast.ipynb)**  
+ This project aims to forecast Walmart's weekly sales using a structured machine learning pipeline. It covers data preprocessing, feature engineering, exploratory data analysis (EDA), and model training and   evaluation using both classical and advanced regression algorithms.
+
+  **Models Used:**
+  - Linear Regression
+  - Lasso Regression
+  - Ridge Regression
+  - Random Forest Regressor  
+  - XGBoost Regressor  
+
+ **Key Steps Involved:**
+ - Merging and cleaning multiple datasets
+ - Handling missing values and encoding categorical features
+ - Exploratory Data Analysis (EDA) to uncover patterns
+ - Model optimization using cross-validation and hyperparameter tuning
+ - Evaluation using RMSE, MAE, and R² Score
+ - Visualizing feature importance (for tree-based models)
+
+
+ **Advanced Modeling**
+   - Plans for implementing LSTM with deep learning for sequential prediction (in progress)
+
+
+ **Tools & Libraries:**  
+ - Python
+ - Pandas, NumPy
+ - Matplotlib, Seaborn
+ - Scikit-learn
+ - XGBoost
+ - TensorFlow/Keras (for deep learning models)
+ - Google Colab (GPU environment)
+
+ ## Future Work
+
+- Implement LSTM-based models for time-series prediction
+- Incorporate additional seasonality and promotional features
+- Deploy model using Streamlit or Flask for real-time inference
 
 ---
 
