@@ -49,33 +49,57 @@ This section highlights my data analytics projects, each briefly describing the 
   - Random Forest Regressor  
   - XGBoost Regressor  
 
- **Key Steps Involved:**
- - Merging and cleaning multiple datasets
- - Handling missing values and encoding categorical features
- - Exploratory Data Analysis (EDA) to uncover patterns
- - Model optimization using cross-validation and hyperparameter tuning
- - Evaluation using RMSE, MAE, and R² Score
- - Visualizing feature importance (for tree-based models)
+  **Key Steps Involved:**
+  - Merging and cleaning multiple datasets
+  - Handling missing values and encoding categorical features
+  - Exploratory Data Analysis (EDA) to uncover patterns
+  - Model optimization using cross-validation and hyperparameter tuning
+  - Evaluation using RMSE, MAE, and R² Score
+  - Visualizing feature importance (for tree-based models)
 
+  **Tools & Libraries:**  
+  - Python
+  - Pandas, NumPy
+  - Matplotlib, Seaborn
+  - Scikit-learn
+  - XGBoost
+  - TensorFlow/Keras (for deep learning models)
+  - Google Colab (GPU environment)
 
- **Advanced Modeling**
-   - Plans for implementing LSTM with deep learning for sequential prediction (in progress)
+   **Future Work**
+ - Implement LSTM-based models for time-series prediction
+ - Incorporate additional seasonality and promotional features
+ - Deploy model using Streamlit or Flask for real-time inference
 
+### Historical Structures Image Classification  
 
- **Tools & Libraries:**  
- - Python
- - Pandas, NumPy
- - Matplotlib, Seaborn
- - Scikit-learn
- - XGBoost
- - TensorFlow/Keras (for deep learning models)
- - Google Colab (GPU environment)
+This project focuses on classifying images of historical architectural structures into **11 categories** using **Transfer Learning** with TensorFlow/Keras. It includes data preprocessing, model building with pretrained CNN backbones, training, evaluation, and visualization of results.  
 
- ## Future Work
+ **Models Used**  
+ - ResNet50 (ImageNet pretrained, frozen base)  
+ - EfficientNetB0 (ImageNet pretrained, frozen base)
+  
+ **Key Steps Involved**  
+ - Loading and preprocessing images from directory structure  
+ - Splitting training data into training & validation sets  
+ - Resizing, batching, and optimizing datasets with prefetching  
+ - Building custom classification heads on top of pretrained models  
+ - Training models and monitoring accuracy/loss curves  
+ - Evaluating performance on test set  
+ - Generating and visualizing confusion matrices
 
-- Implement LSTM-based models for time-series prediction
-- Incorporate additional seasonality and promotional features
-- Deploy model using Streamlit or Flask for real-time inference
+ **Tools & Libraries**  
+ - Python  
+ - TensorFlow/Keras  
+ - NumPy, Pandas  
+ - Matplotlib, Seaborn  
+ - Scikit-learn 
+
+ **Future Work**  
+ - Fine-tuning base models for improved accuracy  
+ - Experimenting with other architectures (e.g., EfficientNetV2, InceptionV3)  
+ - Data augmentation for better generalization  
+ - Deployment using Streamlit or Flask for interactive classification  
 
 ---
 
