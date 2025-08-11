@@ -58,22 +58,17 @@ This section highlights my data analytics projects, each briefly describing the 
   - Visualizing feature importance (for tree-based models)
 
   **Tools & Libraries:**  
-  - Python
-  - Pandas, NumPy
-  - Matplotlib, Seaborn
-  - Scikit-learn
-  - XGBoost
-  - TensorFlow/Keras (for deep learning models)
-  - Google Colab (GPU environment)
+   Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow/Keras (for deep learning models), Google Colab (GPU environment)
 
    **Future Work**
  - Implement LSTM-based models for time-series prediction
  - Incorporate additional seasonality and promotional features
  - Deploy model using Streamlit or Flask for real-time inference
 
-### Historical Structures Image Classification  
+### Historical Structures Image Classification
 
-This project focuses on classifying images of historical architectural structures into **11 categories** using **Transfer Learning** with TensorFlow/Keras. It includes data preprocessing, model building with pretrained CNN backbones, training, evaluation, and visualization of results.  
+- **[Historical_structures_classification](Historical_Structures_Classification.ipynb)**  
+ This project focuses on classifying images of historical architectural structures into **11 categories** using **Transfer Learning** with TensorFlow/Keras. It includes data preprocessing, model building with pretrained CNN backbones, training, evaluation, and visualization of results.  
 
  **Models Used**  
  - ResNet50 (ImageNet pretrained, frozen base)  
@@ -89,11 +84,7 @@ This project focuses on classifying images of historical architectural structure
  - Generating and visualizing confusion matrices
 
  **Tools & Libraries**  
- - Python  
- - TensorFlow/Keras  
- - NumPy, Pandas  
- - Matplotlib, Seaborn  
- - Scikit-learn 
+ - Python, NumPy, Pandas, TensorFlow/Keras, Matplotlib, Seaborn, Scikit-learn 
 
  **Future Work**  
  - Fine-tuning base models for improved accuracy  
