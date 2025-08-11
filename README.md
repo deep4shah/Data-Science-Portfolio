@@ -60,37 +60,37 @@ This section highlights my data analytics projects, each briefly describing the 
   **Tools & Libraries:**  
    Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow/Keras (for deep learning models), Google Colab (GPU environment)
 
-   **Future Work**
- - Implement LSTM-based models for time-series prediction
- - Incorporate additional seasonality and promotional features
- - Deploy model using Streamlit or Flask for real-time inference
+  **Future Work:**
+  - Implement LSTM-based models for time-series prediction
+  - Incorporate additional seasonality and promotional features
+  - Deploy model using Streamlit or Flask for real-time inference
 
 ### Historical Structures Image Classification
 
-- **[Historical_structures_classification](Historical_Structures_Classification.ipynb)**  
+- **[Historical_structures_classification](historical_structures_classification.ipynb)**  
  This project focuses on classifying images of historical architectural structures into **11 categories** using **Transfer Learning** with TensorFlow/Keras. It includes data preprocessing, model building with pretrained CNN backbones, training, evaluation, and visualization of results.  
 
- **Models Used**  
- - ResNet50 (ImageNet pretrained, frozen base)  
- - EfficientNetB0 (ImageNet pretrained, frozen base)
+  **Models Used**  
+  - ResNet50 (ImageNet pretrained, frozen base)  
+  - EfficientNetB0 (ImageNet pretrained, frozen base)
   
- **Key Steps Involved**  
- - Loading and preprocessing images from directory structure  
- - Splitting training data into training & validation sets  
- - Resizing, batching, and optimizing datasets with prefetching  
- - Building custom classification heads on top of pretrained models  
- - Training models and monitoring accuracy/loss curves  
- - Evaluating performance on test set  
- - Generating and visualizing confusion matrices
+  **Key Steps Involved**  
+  - Loading and preprocessing images from directory structure  
+  - Splitting training data into training & validation sets  
+  - Resizing, batching, and optimizing datasets with prefetching  
+  - Building custom classification heads on top of pretrained models  
+  - Training models and monitoring accuracy/loss curves  
+  - Evaluating performance on test set  
+  - Generating and visualizing confusion matrices
 
- **Tools & Libraries**  
- - Python, NumPy, Pandas, TensorFlow/Keras, Matplotlib, Seaborn, Scikit-learn 
+  **Tools & Libraries**  
+  - Python, NumPy, Pandas, TensorFlow/Keras, Matplotlib, Seaborn, Scikit-learn 
 
- **Future Work**  
- - Fine-tuning base models for improved accuracy  
- - Experimenting with other architectures (e.g., EfficientNetV2, InceptionV3)  
- - Data augmentation for better generalization  
- - Deployment using Streamlit or Flask for interactive classification  
+  **Future Work**  
+  - Fine-tuning base models for improved accuracy  
+  - Experimenting with other architectures (e.g., EfficientNetV2, InceptionV3)  
+  - Data augmentation for better generalization  
+  - Deployment using Streamlit or Flask for interactive classification  
 
 ---
 
