@@ -92,6 +92,32 @@ This section highlights my data analytics projects, each briefly describing the 
   - Data augmentation for better generalization  
   - Deployment using Streamlit or Flask for interactive classification  
 
+### Online Retail Customer Segmentation
+
+- **[Online Retail Customer Segmentation](Online_Retail_Customer_Segmentation.ipynb)**
+This project focuses on segmenting retail customers using **RFM (Recency, Frequency, Monetary)** analysis and clustering techniques. The workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, and applying clustering algorithms to group customers based on purchasing behavior.
+
+**Techniques & Models Used**
+- RFM Analysis (Recency, Frequency, Monetary metrics)  
+- K-Means Clustering  
+- Elbow Method & Silhouette Score for optimal cluster selection
+
+**Key Steps Involved**
+- Handling missing values and removing invalid transactions (negative quantities, missing customer IDs)  
+- Feature engineering: creating `Amount` and RFM metrics  
+- Conducting EDA to analyze distributions and customer patterns  
+- Standardizing data before clustering  
+- Applying K-Means clustering to segment customers  
+- Interpreting clusters and labeling groups (e.g., Champions, At Risk, Loyal Customers, etc.)  
+
+**Evaluation & Insights**
+- Used Elbow Method and Silhouette Score to determine the optimal number of clusters  
+- Segments interpreted to guide marketing strategies and retention plans  
+- Visualization of customer segments on Recency, Frequency, and Monetary dimensions  
+
+**Tools & Libraries**
+- Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+   
 ---
 
 ### SQL
