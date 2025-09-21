@@ -94,8 +94,8 @@ This section highlights my data analytics projects, each briefly describing the 
 
 ### Online Retail Customer Segmentation
 
-- **[Online Retail Customer Segmentation](Online_Retail_Customer_Segmentation.ipynb)**
-This project focuses on segmenting retail customers using **RFM (Recency, Frequency, Monetary)** analysis and clustering techniques. The workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, and applying clustering algorithms to group customers based on purchasing behavior.
+- **[Online Retail Customer Segmentation](Online%20Retail%20Customer%20Segmentation/Online_Retail_Customer_Segmentation.ipynb)**
+ This project focuses on segmenting retail customers using **RFM (Recency, Frequency, Monetary)** analysis and clustering techniques. The workflow includes data cleaning, exploratory data analysis (EDA), feature engineering, and applying clustering algorithms to group customers based on purchasing behavior.
 
 **Techniques & Models Used**
 - RFM Analysis (Recency, Frequency, Monetary metrics)  
